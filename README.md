@@ -8,4 +8,4 @@
 
 ## Deployment
 
-- Link to the website deployed on Netlify : https://blissful-blackwell-501cc8.netlify.app
+- Link to the website deployed on Netlify : [link](https://blissful-blackwell-501cc8.netlify.app)
